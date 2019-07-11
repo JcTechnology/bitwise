@@ -1,0 +1,67 @@
+
+ seen 64 
+Enter Image Path: bitwise/test/40_scene00101.jpg: Predicted in 1911.308000 milli-seconds.
+grapes: 81%
+Enter Image Path: bitwise/test/40_scene00151.jpg: Predicted in 1510.825000 milli-seconds.
+grapes: 71%
+grapes: 78%
+grapes: 76%
+grapes: 86%
+grapes: 85%
+Enter Image Path: bitwise/test/40_scene00201.jpg: Predicted in 1260.190000 milli-seconds.
+grapes: 67%
+grapes: 49%
+grapes: 76%
+grapes: 74%
+grapes: 82%
+grapes: 61%
+grapes: 78%
+Enter Image Path: bitwise/test/40_scene00251.jpg: Predicted in 1238.424000 milli-seconds.
+grapes: 79%
+grapes: 72%
+grapes: 77%
+grapes: 68%
+grapes: 86%
+grapes: 70%
+grapes: 76%
+Enter Image Path: bitwise/test/40_scene00301.jpg: Predicted in 1245.791000 milli-seconds.
+grapes: 83%
+grapes: 76%
+grapes: 82%
+grapes: 81%
+grapes: 81%
+grapes: 84%
+grapes: 77%
+Enter Image Path: bitwise/test/40_scene00351.jpg: Predicted in 1245.636000 milli-seconds.
+grapes: 44%
+grapes: 74%
+grapes: 61%
+grapes: 36%
+grapes: 83%
+grapes: 73%
+grapes: 83%
+grapes: 43%
+grapes: 59%
+grapes: 75%
+grapes: 81%
+Enter Image Path: bitwise/test/40_scene00401.jpg: Predicted in 1273.646000 milli-seconds.
+grapes: 80%
+grapes: 83%
+grapes: 76%
+grapes: 83%
+grapes: 85%
+grapes: 80%
+grapes: 78%
+grapes: 79%
+grapes: 45%
+grapes: 63%
+Enter Image Path: bitwise/test/40_scene00451.jpg: Predicted in 1332.839000 milli-seconds.
+grapes: 77%
+grapes: 84%
+grapes: 85%
+grapes: 84%
+grapes: 84%
+grapes: 84%
+grapes: 73%
+grapes: 69%
+Enter Image Path: 
